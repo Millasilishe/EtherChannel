@@ -1,0 +1,4 @@
+####### Link Aggregation ##########
+There are scenarios in which more bandwidth or redundancy b/n devices is needed.--->Etherchannal is a link aggregation technology.
+This technology is developed by Kalpana, Inc., was an American Computer-networking equipment manufacturer. in the early 1990s, as a link aggregation technology.
+**Combines multiple Physical Ethernet links(Up to 8 active) into a single logical link, increase bandwidth and providing redundancy.
